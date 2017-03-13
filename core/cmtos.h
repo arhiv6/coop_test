@@ -6,7 +6,6 @@
 #include <stdbool.h>
 
 #include "os_config.h"
-#include "os_target.h"
 #include "os_kernel.h"
 
 #endif // _CMTOS_H
